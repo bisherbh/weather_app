@@ -40,8 +40,7 @@ dependencies:
   provider: ^6.0.5
   responsive_framework: ^0.2.0
   awesome_snackbar_content: ^0.1.2
-  flutter_local_notifications:
-  workmanager:
+ 
 
 
 dev_dependencies:
