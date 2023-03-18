@@ -9,6 +9,7 @@ import 'package:weather_app/provider/weather_provider.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
+   runApp(Myapp());
 }
 class Myapp extends StatelessWidget {
   const Myapp({super.key});
