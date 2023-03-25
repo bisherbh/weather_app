@@ -1,5 +1,10 @@
 # weather_app
 
+https://user-images.githubusercontent.com/82336393/227667556-33982b24-25ab-4d89-8a43-53d07dbb1e79.mp4
+![original-a34710cc0e93192f117e2334e668743c](https://user-images.githubusercontent.com/82336393/227667585-3f7a7d4c-f5fb-4e54-bdb9-9b9c0377f01a.jpg)
+
+
+
 A new Flutter project.
 
 ## Getting Started
